@@ -8,6 +8,7 @@
 #define MAXWIDTH 250
 #define MAXHEIGHT 16
 #define FONTDELIM '#'
+#define SPACING 2
 #define SMILEY ('~' + 1)
 
 extern char fontDB[];
